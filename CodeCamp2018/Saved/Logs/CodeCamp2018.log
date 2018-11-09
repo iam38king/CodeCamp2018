@@ -1032,3 +1032,4 @@ LogInit: Object subsystem initialized
 [2018.11.09-21.57.07:763][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Villa_Pillar_1]
 [2018.11.09-21.57.07:834][588]LogSavePackage: Moving '../../../../../../Users/hanspnd/Desktop/CodeCamp2018/CodeCamp2018/Saved/M_Villa_Pillar_1_Auto182C50276452A23DBCF6A16A89C2C68DC.tmp' to '../../../../../../Users/hanspnd/Desktop/CodeCamp2018/CodeCamp2018/Saved/Autosaves/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Villa_Pillar_1_Auto1.uasset'
 [2018.11.09-21.57.07:840][588]LogFileHelpers: Auto-saving content packages took 0.296
+[2018.11.09-22.07.40:494][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
